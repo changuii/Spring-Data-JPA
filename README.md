@@ -4,7 +4,7 @@
 ## 참여 인원
 | [이창의](https://github.com/changuii) | [이종현](https://github.com/2-jjong) | [김지후](https://github.com/jihukimme) | [오민규](https://github.com/kormk) | [한동근](https://github.com/l0o0lv) |
 | --- | --- | --- | --- | --- |
-|  ![](https://avatars.githubusercontent.com/u/122252160?v=4)   |   ![](https://avatars.githubusercontent.com/u/127838675?v=4)  |  ![](https://avatars.githubusercontent.com/u/127816292?v=4)   |  ![](https://avatars.githubusercontent.com/u/63334787?v=4)   |   ![](https://avatars.githubusercontent.com/u/128709695?v=4)  |
+|  <img src="https://avatars.githubusercontent.com/u/122252160?v=4" alt="spring" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/127838675?v=4" alt="spring" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/127816292?v=4" alt="spring" width="100" height="100"/>    | <img src="https://avatars.githubusercontent.com/u/63334787?v=4" alt="spring" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/128709695?v=4" alt="spring" width="100" height="100"/>  |
 
 ## 규칙
 - 매주 한 챕터씩 공부합니다.
@@ -27,7 +27,7 @@
 | 주차             | 이창의 | 이종현 | 김지후 | 오민규 | 한동근 |
 | ---------------- | ------ | ------ | ------ | ------ | ------ |
 | 예시 |   ✅     |   ✅     |     ✅   |   ✅     |   ✅     |
-| 1주차 (3월 2일)  |      |      |  ✅    |      |      |
+| 1주차 (3월 2일)  |      |      |      |      |      |
 | 2주차 (3월 8일)  |        |        |        |        |        |
 | 3주차 (3월 15일)  |        |        |        |        |        |
 | 4주차 (3월 22일)  |        |        |        |        |        |
