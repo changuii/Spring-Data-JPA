@@ -2,9 +2,9 @@
 
 
 ## 참여 인원
-| 이창의 | 이종현 | 김지후 | 오민규 | 한동근 |
+| [이창의](https://github.com/changuii) | [이종현](https://github.com/2-jjong) | [김지후](https://github.com/jihukimme) | [오민규](https://github.com/kormk) | [한동근](https://github.com/l0o0lv) |
 | --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+|  ![](https://avatars.githubusercontent.com/u/122252160?v=4)   |   ![](https://avatars.githubusercontent.com/u/127838675?v=4)  |  ![](https://avatars.githubusercontent.com/u/127816292?v=4)   |  ![](https://avatars.githubusercontent.com/u/63334787?v=4)   |   ![](https://avatars.githubusercontent.com/u/128709695?v=4)  |
 
 ## 규칙
 - 매주 한 챕터씩 공부합니다.
@@ -27,7 +27,7 @@
 | 주차             | 이창의 | 이종현 | 김지후 | 오민규 | 한동근 |
 | ---------------- | ------ | ------ | ------ | ------ | ------ |
 | 예시 |   ✅     |   ✅     |     ✅   |   ✅     |   ✅     |
-| 1주차 (3월 1일)  |      |      |      |      |      |
+| 1주차 (3월 2일)  |      |      |  ✅    |      |      |
 | 2주차 (3월 8일)  |        |        |        |        |        |
 | 3주차 (3월 15일)  |        |        |        |        |        |
 | 4주차 (3월 22일)  |        |        |        |        |        |
@@ -44,7 +44,7 @@
 
 ## 주차별 정리
 
-### [1주차 - JPA 소개와 시작](https://github.com/changuii/Spring-Data-JPA/tree/main/1%EC%A3%BC%EC%B0%A8)
+### [1주차 - JPA 소개와 시작](https://github.com/changuii/Spring-Data-JPA/tree/main/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)
 
 - JPA가 왜 탄생했고 JPA를 사용하기 전에는 어떤 문제점이 있었는지 알아본다.
 - JPA로 바뀌면서 어떤 부분이 추상화되고 어떤 부분이 개발자가 편리하게 개발할 수 있는지 알아본다.
