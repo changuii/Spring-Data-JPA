@@ -7,16 +7,17 @@
 |  <img src="https://avatars.githubusercontent.com/u/122252160?v=4" alt="spring" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/127838675?v=4" alt="spring" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/127816292?v=4" alt="spring" width="100" height="100"/>    | <img src="https://avatars.githubusercontent.com/u/63334787?v=4" alt="spring" width="100" height="100"/>   |  <img src="https://avatars.githubusercontent.com/u/128709695?v=4" alt="spring" width="100" height="100"/>  |
 
 ## 규칙
-- 매주 한 챕터씩 공부합니다.
+- 매주 두 챕터씩 공부합니다.
+- 매주 공부한 내용에 대해 발표를 준비하고 발표자를 당일 선정하여 발표를 진행합니다.
 - 학습한 챕터는 MarkDown 으로 정리해서 깃허브 각자의 branch 에 파일을 올립니다.
-- 토론 후 정리한 MD 파일의 PR을 생성한후 Master에 병합합니다.
+- 토론 후 정리한 MD 파일의 PR을 생성한후 Main에 병합합니다.
 - 매주 금요일 20시~22시
 
 ## 파일명
-마크다운 파일은 [O주차]OOO.md (OOO은 이름)
+마크다운 파일은 [O주차-0장]OOO.md (OOO은 이름)
 
-## 벌칙
-- 벌금 만원 (추후 배분)
+## 불참
+- 벌금 만원 (추후 배분), 릴스 촬영
   
 
 ## 일정
@@ -27,8 +28,8 @@
 | 주차             | 이창의 | 이종현 | 김지후 | 오민규 | 한동근 |
 | ---------------- | ------ | ------ | ------ | ------ | ------ |
 | 예시 |   ✅     |   ✅     |     ✅   |   ✅     |   ✅     |
-| 1주차 (3월 2일)  |      |      |      |      |      |
-| 2주차 (3월 8일)  |        |        |        |        |        |
+| 1주차 (3월 2일)  |      |      |     ✅ |      |      |
+| 2주차 (3월 8일)  |        |    ✅    |        |        |        |
 | 3주차 (3월 15일)  |        |        |        |        |        |
 | 4주차 (3월 22일)  |        |        |        |        |        |
 | 5주차 (3월 29일)  |        |        |        |        |        |
@@ -55,8 +56,15 @@
 - JPA에서 어떻게 저장, 조회, 수정, 삭제가 이루어지는지 알아본다.
 - 1차 캐시, 동일성 보장, 쓰기 지연, 변경 감지 등의 기능들이 어떻게 제공되는지 알아본다.
 
-### [3주차 - 엔티티 매핑](https://github.com/changuii/Spring-Data-JPA/tree/main/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/3%EC%A3%BC%EC%B0%A8)
+### [3주차 - 엔티티 매핑, 연관관계 매핑](https://github.com/changuii/Spring-Data-JPA/tree/main/%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/3%EC%A3%BC%EC%B0%A8)
 
+> `엔티티 매핑`
 - JPA의 다양한 매핑 어노테이션들을 알아본다.
 - 객체와 테이블 매핑, 기본 키 매핑, 필드와 컬럼 매핑을 알아본다.
 - 기본 키 생성 전략, DDL 자동 생성, 이름 매핑 전략에 대하여 알아본다.
+> `연관관계 매핑`
+- JPA의 연관관계 매핑 어노테이션들을 알아본다.
+- 객체의 연관관계와 데이터베이스의 연관관계의 차이점과 매핑을 알아본다.
+- 양방향, 단방향 연관관계, mappedBy 연관관계 주인에 대해서 알아본다.
+
+
